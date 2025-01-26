@@ -1,7 +1,7 @@
 # 🏠 **Real Estate App Using MERN Stack**
 
 ## **Introduction**  
-The **Real Estate Marketplace** is a modern, full-stack web application designed to connect buyers, sellers, and agents in the real estate industry. It simplifies the property search and listing process with an intuitive interface, secure authentication, and responsive design.
+The **Real Estate App** is a modern, full-stack web application designed to connect buyers, sellers, and agents in the real estate industry. It simplifies the property search and listing process with an intuitive interface, secure authentication, and responsive design.
 
 ---
 
